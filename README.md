@@ -1,0 +1,2 @@
+# CookieClickerTheFake
+sad
